@@ -3,9 +3,12 @@
     "name": "whatapp",
     "slug": "whatapp",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "splash": {
+      "image": "./assets/images/images.jpeg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"]
   },
   "name": "whatapp"
 }
